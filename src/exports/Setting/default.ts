@@ -21,7 +21,7 @@ export const defaultFormValues: IFormValues = {
     backgroundColor: '#cece72'
   },
   data: {
-    text: '按钮',
+    text: '文本',
     fontSize: 14,
   }
 }
